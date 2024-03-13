@@ -1,1 +1,1 @@
-My css file was in a folder called 'css', but I had some git troubles and had to upload my files a different way. For the href in index.html, in the folder path just take out "css/" and the code should work fine.
+My css file was in a folder called 'css', but I had some git troubles and had to upload my files a different way. 
